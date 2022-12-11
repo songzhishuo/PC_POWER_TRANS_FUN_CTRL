@@ -1,0 +1,2 @@
+# PC_POWER_TRANS_FUN_CTRL
+电脑风扇控制
