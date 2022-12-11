@@ -1,0 +1,1 @@
+"soft_pwm.c" OPTIMIZE (8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\soft_pwm.lst) TABS (2) OBJECT(.\Objects\soft_pwm.obj)

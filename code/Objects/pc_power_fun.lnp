@@ -1,0 +1,7 @@
+".\Objects\main.obj",
+".\Objects\system.obj",
+".\Objects\PCA_PWM.obj",
+".\Objects\ds18b20.obj",
+".\Objects\soft_pwm.obj" 
+TO ".\Objects\pc_power_fun" 
+PRINT(".\Listings\pc_power_fun.m51") RAMSIZE(256) 
