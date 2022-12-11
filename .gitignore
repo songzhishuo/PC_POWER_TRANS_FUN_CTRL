@@ -1,0 +1,8 @@
+//.gitignore文件
+out/*  
+!out/*.hex
+*.bak
+
+*.lst
+*.obj
+/pc_power_fun/Objects/*.htm
